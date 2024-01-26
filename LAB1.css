@@ -1,0 +1,16 @@
+main {
+  column-count: 3;
+  margin-top: 0;
+}
+h1,
+h2 {
+  text-align: center;
+}
+.tag {
+  border: solid 2px black;
+  margin-right: 95%;
+}
+
+p {
+  text-indent: 5px;
+}
